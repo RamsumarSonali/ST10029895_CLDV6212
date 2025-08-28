@@ -1,0 +1,580 @@
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.staticwebassets.runtime.json
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.exe
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.deps.json
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.pdb
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Humanizer.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\scopedcss\bundle\ABCRetailersCLDV6212.styles.css
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\scopedcss\projectbundle\ABCRetailersCLDV6212.bundle.scp.css
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\duhu3seeqg-b9sayid5wm.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ar1a33b5v3-61n19gt1b8.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\2np0m63l6e-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\dy9gtx5g6o-bqjiyaj88i.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\iatnv93ja1-c2jlpeoesf.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\xaks1tbpu4-erw9l3u2r3.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ht9gs0kd1n-aexeepp0ev.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\w2sy15txc4-d7shbmvgxk.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\9c72ml0osz-ausgxo2sd3.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\4jwqgix9u5-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\whtn2o7yzn-cosvhxvwiu.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\r6i3wnvn36-ub07r2b239.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\3p2upzjxli-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\of3ua9udiy-b7pk76d08c.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\g8mfssesjz-fsbi9cje9m.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\0ufixukfqs-rzd6atqjts.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\tcb1po1fd8-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\764yvewbow-dxx9fxp4il.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\vf55i61vhr-jd9uben2k1.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\l2cqmmdad3-khv3u5hwcm.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\mmxvcrpvd9-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\pc4ni5mwxg-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\696jp6afwb-c2oey78nd0.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\cmyofx83uq-tdbxkamptv.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\1n55juj8dh-j5mq2jizvt.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\eddwbyf1ak-06098lyss8.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\0k24a4w6hl-nvvlpmu67g.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\6yk20a8vc7-s35ty4nyc5.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\j9q4bndl4h-pj5nd1wqec.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\rd61q4bzk3-46ein0sx1k.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\g84h0vkpeg-v0zj4ognzu.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\0klomu3r0p-37tfw0ft22.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\2cxlma4cs9-hrwsygsryq.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\p0sh2jkron-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\x0sp8yunlm-ft3s53vfgj.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\fyxey74qza-6cfz1n2cew.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\qfpxwltgwy-6pdc2jztkx.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\2g9zezdk71-493y06b0oq.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ccot7tu7zq-iovd86k7lj.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ew8q88dyms-vr1egmr9el.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\39u7k9zqpt-kbrnm935zg.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\og5ucmsnp2-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\m8lw57uxif-y7v9cxd14o.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\uhq0wa07eq-notf2xhcfb.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\hj8wd23zs3-h1s4sie4z3.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\kfpkq2x5sk-63fj8s7r0e.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\f6t8trhcgr-0j3bgjxly4.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\an5gf90dmv-47otxtyo56.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\1dr0sr2pw1-4v8eqarkd7.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\wh4sseoedy-356vix0kms.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\7c5px2inz3-83jwlth58m.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\c1stvg9tx9-mrlpezrjn3.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ype104gons-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\5osmdf3b55-ag7o75518u.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\i0c9qwuptl-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\z2tfuoru4h-0i3buxo5is.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\6drdcmibrw-o1o13a6vjx.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\w2fvwn47ut-ttgo8qnofa.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ygw82wrq9h-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\2j6vpiq4z7-muycvpuwrr.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\qyo8bblmzz-87fc7y1x7t.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\j0ppz226ww-mlv21k5csn.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ercrcc0p7z-u0ngjhkv3p.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\kf0ayxm3mi-u0ngjhkv3p.gz
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets\msbuild.ABCRetailersCLDV6212.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets\msbuild.ABCRetailersCLDV6212.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets\msbuild.build.ABCRetailersCLDV6212.props
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ABCRetailersCLDV6212.props
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ABCRetailersCLDV6212.props
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetai.B3985CAE.Up2Date
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\refint\ABCRetailersCLDV6212.dll
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.pdb
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\Cloud Sem 2\ABCRetailersCLDV6212\obj\Debug\net9.0\ref\ABCRetailersCLDV6212.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.staticwebassets.runtime.json
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.exe
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.deps.json
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ABCRetailersCLDV6212.pdb
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Humanizer.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\scopedcss\bundle\ABCRetailersCLDV6212.styles.css
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\scopedcss\projectbundle\ABCRetailersCLDV6212.bundle.scp.css
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\duhu3seeqg-b9sayid5wm.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ar1a33b5v3-61n19gt1b8.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\2np0m63l6e-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\dy9gtx5g6o-bqjiyaj88i.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\iatnv93ja1-c2jlpeoesf.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\xaks1tbpu4-erw9l3u2r3.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ht9gs0kd1n-aexeepp0ev.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\w2sy15txc4-d7shbmvgxk.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\9c72ml0osz-ausgxo2sd3.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\4jwqgix9u5-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\whtn2o7yzn-cosvhxvwiu.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\r6i3wnvn36-ub07r2b239.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\3p2upzjxli-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\of3ua9udiy-b7pk76d08c.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\g8mfssesjz-fsbi9cje9m.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\0ufixukfqs-rzd6atqjts.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\tcb1po1fd8-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\764yvewbow-dxx9fxp4il.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\vf55i61vhr-jd9uben2k1.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\l2cqmmdad3-khv3u5hwcm.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\mmxvcrpvd9-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\pc4ni5mwxg-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\696jp6afwb-c2oey78nd0.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\cmyofx83uq-tdbxkamptv.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\1n55juj8dh-j5mq2jizvt.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\eddwbyf1ak-06098lyss8.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\0k24a4w6hl-nvvlpmu67g.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\6yk20a8vc7-s35ty4nyc5.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\j9q4bndl4h-pj5nd1wqec.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\rd61q4bzk3-46ein0sx1k.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\g84h0vkpeg-v0zj4ognzu.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\0klomu3r0p-37tfw0ft22.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\2cxlma4cs9-hrwsygsryq.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\p0sh2jkron-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\x0sp8yunlm-ft3s53vfgj.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\fyxey74qza-6cfz1n2cew.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\qfpxwltgwy-6pdc2jztkx.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\2g9zezdk71-493y06b0oq.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ccot7tu7zq-iovd86k7lj.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ew8q88dyms-vr1egmr9el.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\39u7k9zqpt-kbrnm935zg.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\og5ucmsnp2-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\m8lw57uxif-y7v9cxd14o.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\uhq0wa07eq-notf2xhcfb.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\hj8wd23zs3-h1s4sie4z3.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\kfpkq2x5sk-63fj8s7r0e.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\f6t8trhcgr-0j3bgjxly4.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\an5gf90dmv-47otxtyo56.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\1dr0sr2pw1-4v8eqarkd7.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\wh4sseoedy-356vix0kms.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\7c5px2inz3-83jwlth58m.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\c1stvg9tx9-mrlpezrjn3.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ype104gons-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\5osmdf3b55-ag7o75518u.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\i0c9qwuptl-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\z2tfuoru4h-0i3buxo5is.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\6drdcmibrw-o1o13a6vjx.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\w2fvwn47ut-ttgo8qnofa.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ygw82wrq9h-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\2j6vpiq4z7-muycvpuwrr.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\qyo8bblmzz-87fc7y1x7t.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\j0ppz226ww-mlv21k5csn.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\ercrcc0p7z-u0ngjhkv3p.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\compressed\kf0ayxm3mi-u0ngjhkv3p.gz
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets\msbuild.ABCRetailersCLDV6212.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets\msbuild.ABCRetailersCLDV6212.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets\msbuild.build.ABCRetailersCLDV6212.props
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ABCRetailersCLDV6212.props
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ABCRetailersCLDV6212.props
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetai.B3985CAE.Up2Date
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\refint\ABCRetailersCLDV6212.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.pdb
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ref\ABCRetailersCLDV6212.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\obj\Debug\net9.0\ABCRetailersCLDV6212.sourcelink.json
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Azure.Data.Tables.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Azure.Storage.Blobs.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Azure.Storage.Common.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Azure.Storage.Files.Shares.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\Azure.Storage.Queues.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\System.IO.Hashing.dll
+C:\Users\lab_services_student\Desktop\ABCRetailersCLDV6212\bin\Debug\net9.0\System.Memory.Data.dll

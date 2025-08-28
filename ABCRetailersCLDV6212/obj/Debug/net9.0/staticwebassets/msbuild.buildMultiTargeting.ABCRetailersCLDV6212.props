@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ABCRetailersCLDV6212.props" />
+</Project>

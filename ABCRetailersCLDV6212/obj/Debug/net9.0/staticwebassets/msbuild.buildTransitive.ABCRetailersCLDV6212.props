@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ABCRetailersCLDV6212.props" />
+</Project>
